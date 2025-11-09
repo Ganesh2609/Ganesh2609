@@ -259,6 +259,26 @@ const ganeshSundhar = {
   <table>
     <tr>
       <td width="100%" valign="top">
+        <h3>🔬 AI Research Intern @ InceptAI</h3>
+        <h4><em>InceptAI</em> | Aug 2025 - Oct 2025 | Remote</h4>
+        <ul align="left">
+          <li>🎯 Designed a <strong>cost-efficient LLM workflow</strong> for KQL query generation using Claude Sonnet 4</li>
+          <li>📊 Curated a <strong>200-sample English-KQL dataset</strong> with retrieval-augmented table metadata covering 97 tables</li>
+          <li>🏗️ Implemented <strong>dual-level schema descriptions</strong> - concise summaries + detailed column documentation</li>
+          <li>🔌 Integrated <strong>inference through OpenRouter APIs</strong> for flexible model access and optimization</li>
+          <li>⚡ Optimized query generation pipeline reducing response time and API costs significantly</li>
+        </ul>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Claude_Sonnet_4-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenRouter-00D9FF?style=for-the-badge&logo=api&logoColor=white"/>
+          <img src="https://img.shields.io/badge/LLM_Engineering-667EEA?style=for-the-badge&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/RAG_Systems-764BA2?style=for-the-badge&logo=database&logoColor=white"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" valign="top">
         <h3>🛡️ AI Security Intern @ Cybersecurity NXXT</h3>
         <h4><em>Cybersecurity NXXT</em> | Apr 2025 - Jun 2025 | Coimbatore</h4>
         <ul align="left">
@@ -300,7 +320,7 @@ const ganeshSundhar = {
 ### 🧠 Decisi - AI Decision Support Platform
 **Role:** Full-Stack AI Engineer | **Commits:** 132+
 
-[![Website](https://img.shields.io/badge/🌐_Live-thdecisi.com-667EEA?style=flat-square)](https://thdecisi.com)
+[![Website](https://img.shields.io/badge/🌐_Live-thedecisi.com-667EEA?style=flat-square)](https://thedecisi.com)
 
 **Transform uncertainty into clarity with AI-powered decision insights**
 
