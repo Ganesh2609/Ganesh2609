@@ -58,7 +58,7 @@ const ganeshSundhar = {
   location: "Bengaluru, India",
   degree: "B.Tech CSE - Artificial Intelligence",
   graduation: "June 2026",
-  cgpa: "9.36/10.0",
+  cgpa: "9.37/10.0",
 
   passions: [
     "🧠 Deep Learning & Neural Networks",
@@ -647,7 +647,7 @@ Multi-scale hybrid architecture combining classical and neural representations w
 **Bachelor of Technology - BTech**
 <img src="https://img.shields.io/badge/Amrita_Vishwa_Vidyapeetham-Coimbatore-00D9FF?style=flat-square"/>
 **Artificial Intelligence** | Sep 2022 - Jun 2026
-<img src="https://img.shields.io/badge/CGPA-9.36%2F10.0-4EC9B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/CGPA-9.37%2F10.0-4EC9B0?style=flat-square"/>
 
 **AISSCE (12th Grade)**
 <img src="https://img.shields.io/badge/Velammal_Vidyalaya-Chennai-00D9FF?style=flat-square"/>
