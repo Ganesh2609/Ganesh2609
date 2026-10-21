@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ganesh Sundhar S
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+Full-Stack+Engineer;GATE+2025+AIR+602+Achiever;Deep+Learning+Researcher;Competitive+Programmer;Generative+AI+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Application+Software+Engineer+at+Oracle;GATE+2025+AIR+602+Achiever;Deep+Learning+Researcher;Competitive+Programmer;Generative+AI+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -53,9 +53,9 @@
 ### 🎯 Current Focus
 ```typescript
 const ganeshSundhar = {
-  role: "AI & Full-Stack Engineer",
+  role: "Application Software Engineer - 1 at Oracle",
   institution: "Amrita Vishwa Vidyapeetham",
-  location: "Coimbatore, India",
+  location: "Bengaluru, India",
   degree: "B.Tech CSE - Artificial Intelligence",
   graduation: "June 2026",
   cgpa: "9.36/10.0",
@@ -257,6 +257,36 @@ const ganeshSundhar = {
 
 <div align="center">
   <table>
+    <tr>
+      <td width="100%" valign="top">
+        <h3>💻 Application Software Engineer - 1 @ Oracle</h3>
+        <h4><em>Oracle</em> | Jul 2026 - Present | Bengaluru, India</h4>
+        <ul align="left">
+          <li>Contributing to 5G Policy development and the <strong>Binding Support Function (BSF)</strong> within Oracle's Communications Global Industry Unit</li>
+          <li>Implementing new functionality and resolving bugs in <strong>Java and Micronaut</strong></li>
+          <li>Using <strong>Docker, Kubernetes, and Helm</strong> in development, testing, and deployment workflows</li>
+          <li>Created a <strong>Playwright-based testing framework</strong> for UI and API component tests</li>
+        </ul>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Micronaut-8200D3?style=for-the-badge&logo=micronaut&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" valign="top">
+        <h3>🔬 Associate Software Developer Intern @ Oracle</h3>
+        <h4><em>Oracle</em> | Jan 2026 - Jul 2026 | Bengaluru, India</h4>
+        <ul align="left">
+          <li>Completed an internship project with Oracle India Private Limited from <strong>January 7 to July 10, 2026</strong></li>
+          <li>Worked on <strong>CGIU DEV - Policy</strong>, contributing to 5G Policy development for the Policy Control Function (PCF) and Binding Support Function (BSF)</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td width="100%" valign="top">
         <h3>🔬 AI Research Intern @ InceptAI</h3>
@@ -711,7 +741,7 @@ research_focus = {
 **Current Goals:**
 - 📝 Publish more research papers in top-tier conferences
 - 🏆 Contribute to impactful open-source AI projects
-- 💼 Secure challenging AI research/engineering roles
+- 💼 Grow as a software engineer while continuing to explore AI research and engineering
 - 🌱 Master advanced topics in diffusion models and LLMs
 - 🎓 Pursue graduate studies in AI/ML
 
